@@ -1,0 +1,15 @@
+.cat {
+    text-align: center;
+    font-size: 100px;
+}
+
+.textFound {
+    text-align: center;
+    font-size: 50px;
+}
+.numberFound {
+    text-align: center;
+    font-size: 200px;
+    color: red;
+    font-weight: 500;
+}

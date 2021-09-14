@@ -6,7 +6,7 @@
     display: flex;
     width: 280px;
     transition-duration: 3s;
-    transform: translate(-220px);
+    transform: translate(-240px);
 }
 
 .header:hover {

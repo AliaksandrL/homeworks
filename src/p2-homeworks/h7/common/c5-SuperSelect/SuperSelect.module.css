@@ -60,7 +60,7 @@ body {
 a {
     color: var(--gray);
     text-decoration: none;
-    padding: .15em;
+    padding: .10em;
     border-radius: .25em;
     background: white;
 }
